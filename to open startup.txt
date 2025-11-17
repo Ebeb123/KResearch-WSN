@@ -1,0 +1,24 @@
+shell:startup
+
+
+Use "Boot Thawed" (one-time thaw) option!
+Steps:
+
+Thaw for one session:
+
+Right-click Deep Freeze icon in system tray
+Enter password
+Select "Boot Thawed" (NOT "Boot Thawed Until Disabled")
+Click OK
+
+
+Restart ← System is now thawed
+Download all your files (take your time, no rush)
+Restart again ← Deep Freeze automatically re-freezes
+
+That's it! You don't need to manually re-enable freezing.
+What "Boot Thawed" does:
+
+Thaws the system for only the next boot session
+After you restart again, it automatically goes back to frozen
+Your downloaded files are now part of the frozen snapshot
